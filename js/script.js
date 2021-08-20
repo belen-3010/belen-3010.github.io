@@ -9,6 +9,7 @@ objetos[6] = "img/07.jpg";
 objetos[7] = "img/08.jpg";
 objetos[8] = "img/09.jpg";
 objetos[9] = "img/010.jpg";
+objetos[10] = "img/011.jpg";
 
 function aleatorio() {
 	var azar = Math.floor(Math.random() * objetos.length);
